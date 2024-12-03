@@ -1,0 +1,30 @@
+<br />
+<b>Warning</b>:  imagecreatefrompng(): '../medias/66/180698/ss(us).png' is not a valid PNG file in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>173</b><br />
+<br />
+<b>Warning</b>:  imagealphablending() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>174</b><br />
+<br />
+<b>Warning</b>:  imagesavealpha() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>175</b><br />
+<br />
+<b>Warning</b>:  imagesx() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>178</b><br />
+<br />
+<b>Warning</b>:  imagesy() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>179</b><br />
+<br />
+<b>Warning</b>:  imagecreatetruecolor(): Invalid image dimensions in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>202</b><br />
+<br />
+<b>Warning</b>:  imagealphablending() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>205</b><br />
+<br />
+<b>Warning</b>:  imagesavealpha() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>206</b><br />
+<br />
+<b>Warning</b>:  imagecolorallocatealpha() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>207</b><br />
+<br />
+<b>Warning</b>:  imagecolortransparent() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>208</b><br />
+<br />
+<b>Warning</b>:  imagefilledrectangle() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>209</b><br />
+<br />
+<b>Warning</b>:  imagecopyresampled() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>212</b><br />
+<br />
+<b>Warning</b>:  imagepng() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>221</b><br />
+<br />
+<b>Warning</b>:  imagedestroy() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>232</b><br />
+<br />
+<b>Warning</b>:  imagedestroy() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>233</b><br />
